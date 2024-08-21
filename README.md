@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Django project<br>🤝 I’m looking for help with my friends & mentors<br>🌱 I’m currently learning mobile application development<br>⚡ Fun fact Do think and Do code well...
+🔭 I’m currently working on Django project<br>🤝 I’m looking for help with my friends & mentors<br>🌱 I’m currently learning mobile application development<br>⚡ Fun fact Do think and Do code well.....
 
 
 # 💻 Tech Stack:
