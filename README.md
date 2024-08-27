@@ -11,9 +11,7 @@
 
 - 🌱 I’m currently learning **Frameworks,databases**
 
-- 🤝 I’m looking for help with **MY friends**
-
-- 💬 Ask me about **flutter**
+- 🤝 I’m looking for help with **MY friends & mentors**
 
 - 📫 How to reach me **saranvms2002@gmail.com**
 
