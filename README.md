@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Saran ...</h2>
+<h1 align="left">Hi 👋! I am Saran ...</h1>
 
 # Fun Facts:
 <h2>Do Think and Do Code Well...</h2>
