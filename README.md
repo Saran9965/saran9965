@@ -1,7 +1,10 @@
-<h1 align="left">Hi 👋! I am Saran ...</h1>
-
-# Fun Facts:
+# 
+<div>
+  <h1 align="left">Hi 👋! I am Saran ...</h1>
+Fun Facts: 
 <h2>Do Think and Do Code Well...</h2>
+</div>
+#
 
 <img align="right" height="260" src="https://media.giphy.com/media/aNBC1JxkuaWiXf2zly/giphy.gif?cid=790b7611g9d28e3lzro28iwv5mamxm0pvg5hqs9yylcasrc8&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
 
