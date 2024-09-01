@@ -19,17 +19,14 @@
 </div>
 
 ###
-# 📊 GitHub Stats1:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saran9965&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saran9965&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saran9965&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=saran9965&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saran9965&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=saran9965&icon=7&color=13)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
