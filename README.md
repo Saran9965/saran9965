@@ -1,8 +1,6 @@
 <div>
 <h1 align="left">Hi 👋! I am Saran ...</h1>
-h2 {
-  font-size: 30px;
-}
+
 # 𝙵𝚞𝚗 𝙵𝚊𝚌𝚝𝚜:
 <h2>Do Think and Do Code Well...</h2>
 </div>
