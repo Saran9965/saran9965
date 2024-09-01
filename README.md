@@ -1,9 +1,10 @@
 <h2 align="left">Hi 👋! I am Saran ...</h2>
 
 # Fun Facts:
+
 <h2>Do Think and Do Code Well...</h2>
 
----
+#
 
 <img align="right" height="260" src="https://media.giphy.com/media/aNBC1JxkuaWiXf2zly/giphy.gif?cid=790b7611g9d28e3lzro28iwv5mamxm0pvg5hqs9yylcasrc8&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
 
@@ -19,7 +20,7 @@
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 </div>
 
-#
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saran9965&theme=ambient_gradient&hide_border=false)<br/>
